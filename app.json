@@ -3,7 +3,7 @@
     "name": "rn_2024_III",
     "slug": "rn_2024_III",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "landscape",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
