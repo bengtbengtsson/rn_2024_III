@@ -14,7 +14,7 @@ const Counter = () => {
           title="Increment"
           onPress={() => dispatch(increment())}
         />
-        <Text>{count}</Text>
+        <Text style={{margin: 25}}>{count}</Text>
         <Button
           title="Decrement"
           onPress={() => dispatch(decrement())}

@@ -10,7 +10,6 @@ export default function App() {
     <Provider store={store}>
     <View style={styles.container}>
       <Counter />
-      <Text>Open up App.js to start working on your app!</Text>
       <StatusBar style="auto" />
     </View>
     </Provider>
