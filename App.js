@@ -1,9 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import React from 'react'
 import { store } from './src/app/store'
 import { Provider } from 'react-redux'
 import Counter from './src/features/counter/Counter'
+
+import("./ReactotronConfig")
 
 export default function App() {
   return (

@@ -17,7 +17,9 @@
     "react-redux": "^9.1.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "reactotron-react-native": "^5.1.7",
+    "reactotron-redux": "^3.1.9"
   },
   "private": true
 }
